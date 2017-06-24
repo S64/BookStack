@@ -5,7 +5,7 @@ return [
      * Buttons
      */
     'cancel' => 'キャンセル',
-    'confirm' => 'Confirm',
+    'confirm' => '確認',
     'back' => '戻る',
     'save' => '保存',
     'continue' => 'Continue',
